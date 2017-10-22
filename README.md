@@ -67,7 +67,7 @@ benv.expose({
   Backbone: require('backbone'),
   App: {}
 })
-```
+````
 
 ### benv.teardown(clearDOM = false)
 
